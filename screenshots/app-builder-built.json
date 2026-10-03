@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Booth",
+      "hasCanvas": false,
+      "bodyTextLen": 1002,
+      "bodyTextHash": "863f4e48848c4b1ea5a55233edcb0d4a996ceab028d94bc5aff9a9ee533def57",
+      "bodyTextPrefix": "Booth A production desk for lyrics Stays on this device SONG TIT",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Booth",
+      "hasCanvas": false,
+      "bodyTextLen": 1002,
+      "bodyTextHash": "863f4e48848c4b1ea5a55233edcb0d4a996ceab028d94bc5aff9a9ee533def57",
+      "bodyTextPrefix": "Booth A production desk for lyrics Stays on this device SONG TIT",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

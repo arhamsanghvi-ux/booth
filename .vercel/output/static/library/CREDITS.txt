@@ -1,0 +1,37 @@
+Booth’s three-stem library.
+
+This is not a dump of the OpenAudio list. OpenAudio
+(https://github.com/webprofusion/OpenAudio) is a catalog of open audio
+software — apps, plugins, and libraries — not redistributable recordings.
+Sibling catalogs (SFZ Instruments, the Open Audio Stack, Awesome JUCE,
+smpldsnds) point at the same kind of thing. The sounds below are the
+recordings those catalogs actually lead to, trimmed into this desk.
+
+Drums
+  Public-domain one-shots from the Sonic Pi sample library (CC0),
+  originally Freesound recordings trimmed for Sonic Pi.
+  https://github.com/sonic-pi-net/sonic-pi/tree/dev/etc/samples
+  https://creativecommons.org/publicdomain/zero/1.0/
+  Kits: 808, club, acoustic, soft, room, vintage, boom, haus, tek, chip,
+  fat, heavy, hand (tabla), glitch, pure, zum, gas, sone.
+
+Bass and chords
+  Multisampled notes from FluidR3_GM, Frank Wen’s General MIDI soundfont,
+  via the gleitz midi-js-soundfonts collection. Free to use, including in a
+  mix. The soundfont itself is not for sale as a product.
+  https://github.com/gleitz/midi-js-soundfonts
+  Basses: finger, picked, upright, synth, sub, fretless, slap, slap II, bowed.
+  Chords: piano, rhodes, electric piano, steel guitar, jazz guitar, nylon,
+  clean guitar, driven guitar, strings, synth strings, pizzicato, tremolo,
+  warm pad, sweep pad, polysynth, organ, church organ, rock organ, choir,
+  cello, harp, brass, horn, accordion, harmonica, marimba, vibes, clav,
+  honky-tonk piano, tenor sax, flute, pan flute, bells, celesta, music box.
+
+AudioKit
+  https://github.com/AudioKit is an MIT synthesis toolkit (Swift, Soundpipe,
+  STK). It does not publish a redistributable sample bank, so these stems are
+  not AudioKit waveforms. The desk still follows a three-bus layout — drums,
+  bass, chords — the way a sampler session is built.
+
+The lyric’s words choose the trio. A scale button, or a written sheet’s
+genre, still locks the family when you set one.
